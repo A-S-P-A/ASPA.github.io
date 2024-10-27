@@ -21,7 +21,7 @@ repository               : "A-S-P-A/ASPA.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.jpg"
   name             : "ASPA"
   pronouns         : # example: "she/her"  
   bio              : "Team of 5 working on the 3rd year project dissertation."
