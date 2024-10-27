@@ -308,6 +308,7 @@ plugins:
 
 
 # Theme
+title: "Jekyll Actions Demo"
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 
