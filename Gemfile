@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'jekyll', '~> 4.2'
+  gem "jekyll", "= 3.9.2"
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jemoji'
@@ -14,5 +14,5 @@ group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
 end
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 227", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
