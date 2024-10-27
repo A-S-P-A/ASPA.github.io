@@ -295,13 +295,19 @@ permalink: /:categories/:title/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
+# Plugins and theme
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+theme: "minimal-mistakes-jekyll"
+
+header_pages:
+  - about.md
+  - portfolio.md
+  - blog.md
 
 # Mimic GitHub Pages with --safe
 whitelist:
